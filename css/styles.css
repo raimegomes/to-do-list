@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url("/img/backgound-img.png");
+  background-image: url("../img/background-img.png");
   background-position: center;
   background-size: cover;
 }

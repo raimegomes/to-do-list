@@ -31,7 +31,7 @@ Aqui está uma prévia do site:
 
 1. Acesso à página web ⤵️
    
-   https://raimegomes.github.io/to-do-list/
+   https://raimegomes.github.io/to-do-list
 
 2. Clone este repositório:
 
