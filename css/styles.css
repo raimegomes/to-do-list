@@ -55,7 +55,7 @@ select {
 .todo-container {
   max-width: 450px;
   margin: 3rem auto 0;
-  background-color: #f3f8ff;
+  background-color: #fdfdfd;
   padding: 1.5rem;
   border-radius: 15px;
 }
