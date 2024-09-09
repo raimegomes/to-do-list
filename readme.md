@@ -36,5 +36,5 @@ Aqui está uma prévia do site:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/todo-list.git
+   git clone https://github.com/raimegomes/todo-list.git
 
