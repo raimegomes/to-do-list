@@ -29,7 +29,12 @@ Aqui está uma prévia do site:
 
 ## Como Utilizar
 
-1. Clone este repositório:
+1. Acesso à página web ⤵️
+   
+   https://raimegomes.github.io/to-do-list/
+
+2. Clone este repositório:
 
    ```bash
    git clone https://github.com/SEU_USUARIO/todo-list.git
+
